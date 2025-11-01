@@ -40,6 +40,10 @@ A web application for predicting Quality of Service (QoS) metrics in networks us
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
+<img width="1470" height="956" alt="Screenshot 2025-11-01 at 11 57 52 AM" src="https://github.com/user-attachments/assets/595235dd-d88b-428b-bccb-37d48a822a1d" />
+<img width="1470" height="956" alt="Screenshot 2025-11-01 at 11 58 01 AM" src="https://github.com/user-attachments/assets/443b70ca-7b23-4473-98d7-1462bcf3e754" />
+
+
 ## Usage
 
 1. Open your browser and navigate to `http://localhost:3000`
